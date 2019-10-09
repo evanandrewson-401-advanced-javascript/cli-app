@@ -96,4 +96,4 @@ describe('tours api', () => {
   });
 });
 
-module.exports = postTour;
+module.exports = { postTour };
