@@ -5,8 +5,8 @@
 ### Author: Evan Andrewson
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
+* [submission PR](https://github.com/evanandrewson-401-advanced-javascript/cli-app/pull/1)
+* [travis](https://travis-ci.com/evanandrewson-401-advanced-javascript/cli-app)
 
 #### Running the app
 
